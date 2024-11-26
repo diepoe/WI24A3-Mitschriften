@@ -4,15 +4,15 @@
 > [!info] Allgemeine Grundlage
 > Güter sind aufgrund ihrer grundsätzlichen Knappheit begrenzt und erfordern einen ökonomischen (*effizienten*) Umgang
 
-- #flashcard✅ **ökonomisch** || wirtschaftlich
-- #flashcard✅ **ökonomischer Umgang** im engeren Sinne || profitmaximiertes Handeln (Min-Max-Prinzip)
-- #flashcard✅ **ökonomischer Umgang** im weiteren Sinne || Auflösen eines Zielkonflikts
+-  **ökonomisch** || wirtschaftlich
+-  **ökonomischer Umgang** im engeren Sinne || profitmaximiertes Handeln (Min-Max-Prinzip)
+-  **ökonomischer Umgang** im weiteren Sinne || Auflösen eines Zielkonflikts
 
 ## Unterschied zwischen BWL und VWL
-#flashcard✅  
+  
 ![[Unterschiede zwischen BWL und VWL.pdf]]
 ### Kennzahlen
-#flashcard
+
 
 | VWL                                 | BWL                        |
 | ----------------------------------- | -------------------------- |
@@ -24,7 +24,7 @@
 ### Saisonalität
 - [ ] Saisonalität recherchieren 🔼 ⏳ 2024-11-22
 ### Ziele & Vorgehen
-> [!tldr] VWL - Kontext #flashcard✅  
+> [!tldr] VWL - Kontext   
 > - **Ziel:** Wirtschaftsleben in Aufbau & Zusammenhängen analysieren → Gesetzmäßigkeiten herausfinden → Nutzung der Erkenntnisse für die Organisation des analysierten Wirtschaftsprozesses
 > - **Vorgehen**
 > 	1. Beobachtung
@@ -34,7 +34,7 @@
 >   *Die VWL ist die <mark>abstraktere Schwesterdisziplin</mark> zur BWL*
 
 
-> [!tldr] BWL - Kontext #flashcard✅ 
+> [!tldr] BWL - Kontext  
 > - **Ziele:** Unternehmen beschreiben und *erklären* ⇒ im Rahmen der Entscheidungsprozesse *konkret* **unterstützen**
 >   
 > ⇒ eine <mark>**rationale Betriebsführung**</mark> ermöglichen
@@ -42,7 +42,7 @@
 
 ## Betriebwirtschaftslehre
 
-> [!important] Zentraler Gegenstand #flashcard✅  
+> [!important] Zentraler Gegenstand   
 > Betrieblicher Transformationsprozess
 > > <u>Bedeutet:</u>
 > > - *abstrakt: Input → Output*
@@ -50,7 +50,7 @@
 
 
 ### Betrieblicher Transformationsprozess mit Stakeholdern
-#flashcards✅ 
+ 
 ![[Betrieblicher Transformationsprozess.pdf]]
 
 #### Beschaffungsmarkt (*produktive Faktoren*)
@@ -68,7 +68,7 @@
 - Steuern & Subventionen
 
 
-> [!example] Beschreibung der BWL basierend auf Entscheidungsfeldern #flashcard✅  
+> [!example] Beschreibung der BWL basierend auf Entscheidungsfeldern   
 > $$ \text{BWL} = \sum{\text{wirtschaftliche Entscheidungen}_{\text{im Rahmen des Betriebs}}} $$
 > 
 > 1. Entscheidungen über die Durchführung der Leistungserstellung (**Produktion**)
@@ -88,14 +88,14 @@
 # 2. Historische Entwicklung der Wirtschaftswissenschaften
 ## Taylorismus
 
-> [!tldr] Eckdaten Taylorismus #flashcard✅ 
+> [!tldr] Eckdaten Taylorismus  
 > **Ziel:** Steigerung der Produktivität menschlicher Arbeit
 > **Umsetzung:** Teilung der Arbeit in kleinste, aufwandsarme Einheiten
 > 	⇒ Wiederholung der kleinen Einheiten ermöglicht <mark>effiziente Arbeitsteilung</mark>
 
 ## Henri Fayol
 
-> [!tldr] Fünf Elemente des Managments nach Fayol #flashcard✅ 
+> [!tldr] Fünf Elemente des Managments nach Fayol  
 > 1. Planung
 > 2. Organisation
 > 3. Führung (Leitung)
@@ -111,15 +111,15 @@
 > Unternehmen als offene, sozio-ökonomische Systeme 
 
 ## Systemorientierte Betriebwirtschaftslehre
-#flashcard✅ 
+ 
 - **Betriebswirtschaftliche Erkenntnisobjekte** als **Systeme** <mark>interpretieren</mark>
 - *Nutzen:* Systemtheorie ist hauptsächlich **Zugang** zu **Steuerungs- und Führungsproblemen** von Unternehmen 
 
 # 4. Unternehmen als Regelkreis
-> [!tldr] Zusammenfassung #flashcard✅  
+> [!tldr] Zusammenfassung   
 > Planung, **Steuerung** und **Kontrolle** von betrieblichen Aktivitäten
 
-- [x] Skript S. 42 als Zeichnung & #flashcard✅  ✅ 2024-11-25
+- [x] Skript S. 42 als Zeichnung &   ✅ 2024-11-25
 
 ![[Unternehmen als Regelkreis.pdf]]
 
@@ -132,7 +132,7 @@
 
 # 5. Funktionalbereiche und Querschnittsfunktionen
 
-#flashcards✅
+
 
 |                      | <mark>Aufbau</mark>organisation            | <mark>Ablauf</mark>organisation |
 | -------------------- | ------------------------------------------ | ------------------------------- |
@@ -140,11 +140,11 @@
 | Dargestellte Systeme | statische Strukturen                       | Dynamische Arbeitsprozesse      |
 
 ## Organisationseinheit
-> [!info] Definition #flashcard✅ 
+> [!info] Definition  
 > Übt betriebliche Funktionen aus, dementsprechend ein **Funktionalbereich**
 
 ## Aufbauorganisation
-#flashcards✅   
+   
 - Gerüst einer Organisation
 - Hierarchie
 - **vertikale** Informations- und Disziplinarrichtung (Direktionalität von Anweisungen)
@@ -191,22 +191,22 @@
 
 
 ## Ablauforganisation
-#flashcard✅   
+   
 - Arbeits- und Informations**prozesse**
 - Prozesse fließen <mark><b>horizontal</b></mark> durch die [[#Organisationseinheit]]en der [[#Aufbauorganisation]]
 ### Ziele
-#flashcard✅ 
+ 
 - Aufwand minimieren
 - Bearbeitungs- und Durchlauf**kosten minimieren**
 - Bearbeitungs**zeiten und -fehler minimieren**
 - Termine einhalten
 - Kapazitäten optimal nutzen
 ### Herausforderungen der Strukturgestaltung & -optimierung
-#flashcard✅  
+  
 ![[Strukturgestaltung-optimierung_Herausforderungen.pdf]]
 
 ### Querschnittsfunktionen
-#flashcard✅ 
+ 
 - neben den **Grundfunktionen** vorhanden
 - <mark>verantworten Themengebiete <b>über mehrere Hauptlinien hindurch</b></mark>
 - die Themengebiete sind dort *jeweils nicht Hauptgeschäft*
@@ -228,8 +228,7 @@
 > Nennen Sie ein Beispiel für eine Querschnittsfunktion und erklären Sie anhand des Beispiels den Begriff Querschnittsfunktion.
 
 ### <mark>Prozessorganisation</mark>
-#flashcard✅  
-- [x] Zeichnung Prozessorganisation Struktur S. 64f ✅ 2024-11-24
+
 ![[Prozessorganisation.pdf]]
 
 
@@ -241,7 +240,7 @@
 ## Spartenorganisation
 ![[Spartenorganisation.png]]
 
-> [!summary] Zusammenfassung #flashcard 
+> [!summary] Zusammenfassung  
 > Wenn sich die Anforderungen an Einkauf, Produktion, Marketing und Verkauf zur Erreichung der einzelnen Kundengruppen stark voneinander unterscheiden, bietet sich für das Unternehmen eine divisionale Organisationsform an.
 
 > [!example] Beispiel: Schwarz
