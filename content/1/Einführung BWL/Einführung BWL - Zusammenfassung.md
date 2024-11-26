@@ -297,13 +297,112 @@ Unternehmensaufbau nach Funktionsbereichen
 # 7. Lebensphasen von Unternehmen und Unternehmenskultur
 
 
+## Kapitalgeber
 > [!info] 3 F's
+>
 > Family, Friends & Fools
-
+>^a6505a
 
 > [!info] Business Angels
-> Contents
+> ^a10fa5
+> - erfolgreicher Gründer, erfahrene Unternehmer o.Ä.
+> - Managment-Efahrung
+> - suchen Herausforderung in *dynamischer Unternehmensphase*
+> - langfristige finanzielle Beteiligung
+> - Networking & Expertise
+> - (geringe Ausprägung in DE)
 
+> [!danger] Business Devils
+> 
+> - treten zum Schein als [[#^a10fa5|Business Angels]] auf
+> - möchten durch Finanzierung ==ausschließlich persönliche Vorteile erlangen==
+> - *zum Beispiel*: Patente & Technologien, Übernahme des Unternehmens
 
-> [!info] Business Devils
-> Contents
+> [!info] Venture-Capital
+> - Wagnis-/ Risikokapital
+> - Ausgleich für eingegangenes Investionsrisiko: **Unternehmensanteile**
+> - *außerbörsliches* Kapital
+> - höhere Investitionssummen
+> - Eigenkapital oder Wandelanleihen
+> - fehlende Sicherheiten, **aber ausführliches Reporting**
+> - ==Ziel: Gewinn aus Verkauf der Beteiligung (Exit)==
+> 	- deshalb fordern Investoren i.d.R. klare Exit-Strategie in 3-5 Jahren
+>^72d63d
+
+## Lebensphasen eines Unternehmens
+### Übersicht
+
+![[Lebensphasen eines Unternehmens.pdf]]
+### 1. Seed (*Samen*)
+
+> [!tldr] Phasenmerkmale
+> - Konzeptentwicklung
+> - Grundlagen erarbeiten
+> - Businessplan
+> - Prototyp
+> - Team zusammenstellen
+
+**==📉 Unternehmen ist in Verlustzone==**
+
+> [!check] Finanzielle Stakeholder
+> - Gründer
+> - [[#^a6505a|3 F's]]
+> - Gründerfonds
+> - Businessplan-Wettbewerbe
+
+### 2. Start-Up
+>[!tldr] Phasenmerkmale
+> - ==**Gründung**==
+> - Produktionsbeginn
+> - Aufbau Vertrieb
+> - Markteintritt
+
+**==📉 Unternehmen ist in Verlustzone==**
+
+> [!check] Finanzielle Stakeholder
+> - Gründer
+> - [[#^a6505a|3 F's]]
+> - [[#^a10fa5|Business Angels]]
+> - Banken (*spezifische Anlagen-/Maschinenfinanzierung*)
+### -*Break-Even-Point* -
+
+> [!info] Break-Even Point
+> Ab hier befindet sich die Unternehmensbilanz in der Gewinnzone
+
+### 3. Wachstum
+>[!tldr] Phasenmerkmale
+> - Marktausweitung
+> - neue Produkte
+> - Erweiterung der Kapazitäten
+> - neue Länder
+
+**==📈 Unternehmen ist in Gewinnzone==**
+
+> [!check] Finanzielle Stakeholder
+> - [[#^72d63d|Venture-Capital]]
+> - Banken
+
+### 4. Reifephase
+>[!tldr] Phasenmerkmale
+> - Konsolidierung
+> - Prozessoptimierung
+> - Kostenreduktion
+> - Effizienzsteigerung
+
+**==📈 Unternehmen ist in Gewinnzone==**
+
+> [!check] Finanzielle Stakeholder
+> - Banken
+### 5. Exit
+>[!tldr] Phasenmerkmale
+> - **Nachfolgeregelung** (*"entweder-oder" Optionen*):
+> 	- Verkauf
+> 	- Börsengang
+> 	- Liquidation (*Auflösung*)
+
+**==📈 Unternehmen ist in Gewinnzone==**
+
+> [!check] Finanzielle Stakeholder
+> - [[#^72d63d|Venture-Capital]] (*ROI*)
+> - Banken
+
