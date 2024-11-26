@@ -107,7 +107,7 @@
 >*zzgl. 14 Prinzipien des Managments*
 
 
-# 3. [[1/wiki/Allgemeine Systemtheorie]]
+# 3. [[1/Wiki/Allgemeine Systemtheorie]]
 
 > [!tldr] Zusammenfassung
 > Unternehmen als offene, sozio-ökonomische Systeme 
