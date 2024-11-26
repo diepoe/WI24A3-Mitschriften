@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "de-DE",
-    baseUrl: "diepoe.github.io/WI24A3-Mitschriften",
+    baseUrl: "diepoe.github.io/WI24A3-Mitschriften/",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     generateSocialImages: false,
