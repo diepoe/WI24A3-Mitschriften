@@ -121,8 +121,6 @@
 > [!tldr] Zusammenfassung   
 > Planung, **Steuerung** und **Kontrolle** von betrieblichen Aktivitäten
 
-- [x] Skript S. 42 als Zeichnung &   ✅ 2024-11-25
-
 ![[Unternehmen als Regelkreis.pdf]]
 
 
@@ -259,7 +257,6 @@
 ## Funktionalorganisation
 Unternehmensaufbau nach Funktionsbereichen
 
-- [x] Aufbau Funktionalorganisation Screenshot ✅ 2022-01-01
 ![[Funktionalorganisation.png]]
 
 | Vorteile                                                                         | Nachteile                                                |
