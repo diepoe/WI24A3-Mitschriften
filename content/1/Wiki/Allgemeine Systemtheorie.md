@@ -2,14 +2,25 @@
 title: "Allgemeine Systemtheorie"
 ---
 
-# Ziel
+# System
+## Ziel
 > [!check] Ziel #flashcard 
 > Abkehr von isolierter Einzelbetrachtung, Betrachtung von Phänomenen **inklusive ihrer Vernetzung**
 
-# Definition
+## Definition
 
 > [!tldr] Defintion: System #flashcard 
-> Menge von Elementen und deren Relation untereinander
+> Menge von miteinander verknüpften Elementen und deren Relation untereinander
+
+## Klassifizierung
+
+> [!example] Mögliche Klassifizierungen von Systemen
+> - Entstehung (*natürlich vs. künstlich*)
+> - Existenz (*abstrakt vs. konkret*)
+> 	*Glaube vs. Information*
+> - Umweltinteraktion (*offen vs. geschlossen*)
+> - Verhalten (*deterministisch vs. zufällig*)
+> - Anpassung (*adaptiv vs. nicht adaptiv*)
 
 # Modellierung
 ## Problem 
@@ -29,3 +40,12 @@ Das Verhalten komplexer dynamischer Systeme (z.B. in Umwelt/Wirtschaft) lässt s
 	mit geeigneten Methoden, unabhängig vom Realsystem
 3. Modell-Validierung
 	Untersuchungsergebnisse mit bekannten Eigenschaften des realen Systems vergleichung
+
+## Klassifizierung
+
+> [!example] Klassifzierungen
+> - Abstraktionsgrad (physisch vs analog vs mathematisch)
+>- Zweck (normativ vs deskriptiv)
+>- Zeit (statisch vs dynamisch)
+>- Verhalten (deterministisch vs stochastisch)
+>- Anpassung (adaptiv vs nicht-adaptiv)
