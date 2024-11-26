@@ -22,7 +22,9 @@
 |                                     | Gewinn, Umsatz             |
 |                                     | Rentabilität               |
 ### Saisonalität
-- [ ] Saisonalität recherchieren 🔼 ⏳ 2024-11-22
+- **BWL:** Geschäftsjahre mit quartalsweisen Vergleichen
+- **VWL:** Konjunkturzyklus
+
 ### Ziele & Vorgehen
 > [!tldr] VWL - Kontext   
 > - **Ziel:** Wirtschaftsleben in Aufbau & Zusammenhängen analysieren → Gesetzmäßigkeiten herausfinden → Nutzung der Erkenntnisse für die Organisation des analysierten Wirtschaftsprozesses
