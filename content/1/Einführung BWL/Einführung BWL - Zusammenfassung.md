@@ -406,3 +406,26 @@ Unternehmensaufbau nach Funktionsbereichen
 > - [[#^72d63d|Venture-Capital]] (*ROI*)
 > - Banken
 
+# 8. Managment und Managment-Ansätze
+
+> [!tldr] Shareholder
+> Anteilseigner (Aktionäre)
+>^9690cc
+
+> [!tldr] Stakeholder
+> Interessenten an einem bestimmten Sachverhalt
+>^dd5ba7
+
+## Shareholder Value-Ansatz
+- **Ertragswert** des Eigenkapitals
+- ==**Fokus:** Cashflow==
+- **Maßgröße:** Unternehmensbewertung (*alternativ zum Substanzwert*)
+- **Ziel:** Unternehmenswert im Sinn des Marktwerts steigern
+	⇒ ==Renditen== außerhalb der durchschnittlichen Kapitalkosten (Finanzierungskosten) werden *veräußert* und ggf. an [[#^9690cc|Shareholder]] **ausgeschüttet**, ==um Wertvernichtung zu vermeiden==
+
+## Stakeholder Ansatz
+- nicht nur Berücksichtigung der [[#^9690cc|Shareholder]]-Interessen, sondern der der [[#^dd5ba7|Stakeholder]]
+- Unternehmen ist ohne Stakeholder (Kunden, Mitarbeiter etc.) nicht überlebensfähig
+	→ ==das Unternehmen vertritt Interessen inklusive Mitarbeiter, Geschäftspartner, Kunden und erfolgsabhängigen Institutionen==
+- Unterteilung der Stakeholder in **externe und interne Anspruchsgruppen**
+**==⇒ das Stakeholder-Konzept berücksichtigt gesamtgesellschaftliche Interessen
