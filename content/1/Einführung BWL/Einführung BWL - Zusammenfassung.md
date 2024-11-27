@@ -227,7 +227,7 @@
 > Was sind Querschnittsfunktionen in einer Linienorganisation?
 > Nennen Sie ein Beispiel für eine Querschnittsfunktion und erklären Sie anhand des Beispiels den Begriff Querschnittsfunktion.
 
-### ==Prozessorganisation==
+### *Prozessorganisation*
 
 ![[Prozessorganisation.pdf]]
 
@@ -428,11 +428,12 @@ Unternehmensaufbau nach Funktionsbereichen
 - Unternehmen ist ohne Stakeholder (Kunden, Mitarbeiter etc.) nicht überlebensfähig
 	→ ==das Unternehmen vertritt Interessen inklusive Mitarbeiter, Geschäftspartner, Kunden und erfolgsabhängigen Institutionen==
 - Unterteilung der Stakeholder in **externe und interne Anspruchsgruppen**
-**==⇒ das Stakeholder-Konzept berücksichtigt gesamtgesellschaftliche Interessen
+**==⇒ das Stakeholder-Konzept berücksichtigt gesamtgesellschaftliche Interessen==**
 
 ### Risiken
 
 > [!danger] Risiken des Stakeholder Ansatzes
+>
 > ==Missachtung der Stakeholderinteressen **kann SCHWERWIEGENDE Folgen haben**==
 > 
 > - **Beispiele:**
