@@ -33,13 +33,13 @@
 > 	2. Analyse
 > 	3. Lenkung
 >   
->   *Die VWL ist die <mark>abstraktere Schwesterdisziplin</mark> zur BWL*
+>   *Die VWL ist die ==abstraktere Schwesterdisziplin== zur BWL*
 
 
 > [!tldr] BWL - Kontext  
 > - **Ziele:** Unternehmen beschreiben und *erklären* ⇒ im Rahmen der Entscheidungsprozesse *konkret* **unterstützen**
 >   
-> ⇒ eine <mark>**rationale Betriebsführung**</mark> ermöglichen
+> ⇒ eine ==**rationale Betriebsführung**== ermöglichen
 
 
 ## Betriebwirtschaftslehre
@@ -93,7 +93,7 @@
 > [!tldr] Eckdaten Taylorismus  
 > **Ziel:** Steigerung der Produktivität menschlicher Arbeit
 > **Umsetzung:** Teilung der Arbeit in kleinste, aufwandsarme Einheiten
-> 	⇒ Wiederholung der kleinen Einheiten ermöglicht <mark>effiziente Arbeitsteilung</mark>
+> 	⇒ Wiederholung der kleinen Einheiten ermöglicht ==effiziente Arbeitsteilung==
 
 ## Henri Fayol
 
@@ -114,7 +114,7 @@
 
 ## Systemorientierte Betriebwirtschaftslehre
  
-- **Betriebswirtschaftliche Erkenntnisobjekte** als **Systeme** <mark>interpretieren</mark>
+- **Betriebswirtschaftliche Erkenntnisobjekte** als **Systeme** ==interpretieren==
 - *Nutzen:* Systemtheorie ist hauptsächlich **Zugang** zu **Steuerungs- und Führungsproblemen** von Unternehmen 
 
 # 4. Unternehmen als Regelkreis
@@ -134,7 +134,7 @@
 
 
 
-|                      | <mark>Aufbau</mark>organisation            | <mark>Ablauf</mark>organisation |
+|                      | ==Aufbau==organisation            | ==Ablauf==organisation |
 | -------------------- | ------------------------------------------ | ------------------------------- |
 | Zweck                | Verknüpfung von **Organisationseinheiten** | Zerlegung des Arbeitsprozesses  |
 | Dargestellte Systeme | statische Strukturen                       | Dynamische Arbeitsprozesse      |
@@ -193,7 +193,7 @@
 ## Ablauforganisation
    
 - Arbeits- und Informations**prozesse**
-- Prozesse fließen <mark><b>horizontal</b></mark> durch die [[#Organisationseinheit]]en der [[#Aufbauorganisation]]
+- Prozesse fließen ==**horizontal**== durch die [[#Organisationseinheit]]en der [[#Aufbauorganisation]]
 ### Ziele
  
 - Aufwand minimieren
@@ -208,7 +208,7 @@
 ### Querschnittsfunktionen
  
 - neben den **Grundfunktionen** vorhanden
-- <mark>verantworten Themengebiete <b>über mehrere Hauptlinien hindurch</b></mark>
+- ==verantworten Themengebiete <b>über mehrere Hauptlinien hindurch</b>==
 - die Themengebiete sind dort *jeweils nicht Hauptgeschäft*
 
 > [!example] Beispiele
@@ -227,7 +227,7 @@
 > Was sind Querschnittsfunktionen in einer Linienorganisation?
 > Nennen Sie ein Beispiel für eine Querschnittsfunktion und erklären Sie anhand des Beispiels den Begriff Querschnittsfunktion.
 
-### <mark>Prozessorganisation</mark>
+### ==Prozessorganisation==
 
 ![[Prozessorganisation.pdf]]
 
