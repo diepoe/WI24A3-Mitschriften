@@ -96,23 +96,52 @@
 ### Organisationsebene
 ![[Unternehmensinterne Informationssysteme nach Organisationsebene.pdf]]
 #### Transaktionssysteme
-- [ ] Integrationsbezug S. 49 letzter Stichpunkt
 - elementare Leistungsprozesse des Unternehmens
 - Standardisierung & Automatisierung ermöglichen effektive & effiziente Verarbeitung
 - Prozesse mit hohem Datenvolumen
-- **Ziel:** ==Vollautomatisierung von Aufgaben== oder ==Teilautomatisierung zur Unterstützung menschlicher Mitarbeiter==
-##### Administrationssystem
-- vollständige Automatisierung & Rationalisierung der Massendatenverarbeitung
-##### Dispositionssysteme
-- menschliche operative Entscheidungen unterstützen bzw. ersetzen
+- Auswertung der Daten & Informationen für höhere Managmentstufen ([[#vertikal ↕️|vertikale Integration]])
+
+> [!done] Ziel
+> - ==Vollautomatisierung von Aufgaben== (**Administrationssysteme**) 
+> *oder* 
+> - ==Teilautomatisierung zur Unterstützung menschlicher Mitarbeiter== (**Dispositionssysteme**)
 
 #### Managmentunterstützungssysteme
+- **Planungssysteme**
+	- Unterstützung bei ==schlecht strukturierten Entscheidungsproblemen==
+- **Kontrollsysteme**
+	- ==Kontrolle der Einhaltung der Pläne ("Soll-Ist"-Vergleich)==
+	- Hinweise auf Notwendigkeit von Korrekturmaßnahmen
+
+==**⇒** Zusammenfassender Begriff **_Business Intelligence_**==
 #### Interaktionssysteme
+- sind **Querschnittssysteme**
+	- Unterstützung Arbeitsgruppen ==*auf allen Hierarchiestufen*==
+	- auf und zwischen allen Organisationsebenen zur Zusammenarbeit verschiedener Aufgabenträger im Einsatz
+- **Arten**
+	- IT-Kommunikationstools
+	- IT-Konferenztools
+	- Kollaborative IT-Managmenttools
+## Integration
+- IS dienen nicht nur Unterstützung der Mitarbeiter bei Aufgabenerfüllung
+- Informationssysteme verantworten auch Datenmanagment (*einmalige* Erfassung der Daten)
+  ⇒ Fähigkeit der Integration
 
-## Integrationsarten
+> [!info] Definition Integration
+> Fähigkeit, Daten, Vorgänge und Sachen sachlogisch zu verzahnen
+
 ### horizontal ↔️ 
+- Verbindung unterschiedlicher Funktionsbereiche innerhalb eines [[Einführung BWL - Zusammenfassung#Betrieblicher Transformationsprozess mit Stakeholdern|Geschäftsprozesses]] auf gleicher Unternehmensebene
 ### vertikal ↕️
+- Verbindung [[#Transaktionssysteme|operative Informationssysteme]] mit [[#Managmentunterstützungssysteme|Planungs- und Kontrollsystemen]]
+- **Ziel:** ==Datenversorgung== zur ==Unterstützung des Managments==
 
+### Ziel der Wirtschaftsinformatik hinsichtlich der Integration
+- Geeignete Informationssysteme bereitstellen
+## Unternehmensübergreifende Informationssysteme
+- **zwischenbetrieblich** vs. **endkundenorientiert**
+  B2B vs. B2C
+- [ ] Klausurrelevanz von ERP & Co. erfragen
 ## Übung
 
 > [!question] KLAUSURFRAGEN
