@@ -174,21 +174,128 @@
 > [!tldr] Projektmanagment
 > Gesamtheit von Führung & Organisation für die verschiedenen [[#Lebenszyklus eines Projekts|Lebenszyklen eines Projekts]]
 
-
 ### Lebenszyklus eines Projekts
+![[Lebenszyklus Projekt.pdf]]
+
+**Phasen werden mit ==Meilensteinen== abgeschlossen** (Ergebnisse müssen vorliegen)
 ### Projektmanagmentprozess
-### Projektmanagmentphasen
+- Unterteilung der Aktivitäten *in Phasen* 
+- **Phasen sind ==nicht== streng sequenziell**
+- wiederholt sich und wirkt in jeder Phase des [[#Lebenszyklus eines Projekts|Projektlebenszyklus]]
+![[Klassischer Projektmanagmentprozess.pdf]]
+### Projektmanagmentphasen (*inkl. Beispiele*)
+1. **Initialisierung** 
+   *Zuständigkeiten klären, Projektziele skizzieren*
+   
+2. **Definition**
+   *Zieldefinition, Aufwandsschätzung & Machbarkeitsbewertung*
+   
+3. **Planung** (Was soll wann, wie und durch wen gemacht werden)
+   *Termine & Arbeitspakete planen, Kostenplan, Risikoanalyse, Ressourcenplan*
+   
+4. **Steuerung** (Überwachung und Soll-Ist-Vergleich)
+   *von Terminen, Ressourcen, Kosten, Risiken, Qualität, Ziele*
+   
+5. **Abschluss** (Wurden die Ziele und Erwartungen erfüllt?)
+   *Erstellung Abschlussbericht, Nachkalkulation, Erfahrungssicherung, Vertragsbeendigung*
 ### Agiles Projektmanagment mit Scrum
 
+> [!info] Agiles Manifest
+> 1. Individuen und Interaktionen sind wichtiger als Prozesse und Werkzeuge
+>2. Funktionierende Software ist wichtiger als umfassende Dokumentation
+>3. Zusammenarbeit mit dem Kunden sind wichtiger als Vertragsverhandlungen
+>4. Reaktionen auf Veränderung sind wichtiger als das Befolgen eines Plans
+>
+>⇒ ==Rahmenwerk für leichtgewichtigen Managmentprozess==
 
+#### Rollen
+- **Team**
+  setzt Anforderungen aus Backlog um
+- **Product Owner**
+  Bindeglied zwischen Kunden/Markt und Entwicklerteam
+  Beschreibung der Anforderungen und Aktualisierung des Backlogs
+- **Scrum Master**
+  Sicherstellung der Einhaltung der Scrum-Regeln
+#### Meetings
+- **Sprint-Planungssitzung**
+  Start des Sprints
+- **Daily**
+  Was wurde erreicht? Was möchte ich erreichen? Hindernisse?
+- **Sprint Review**
+  Überprüfung und Abnahme des Inkrements
+- **Sprintretroperspektive**
+  Analyse von Zusammenarbeit und Prozess
+#### Ergebnisse
+- **Backlog**
+  Alle Anforderungen
+- **Sprint Backlog**
+  im Sprint bearbeitete Anforderungen
+- **Inkrement**
+  unmittelbar nutzbares Ergebnis des Sprints
+
+### Vorgehensmodelle in der Softwareentwicklung
+- Vorgehensmodell ==unterteilt den Entwicklungsprozess von Spftware in verschiedene **zeitlich** und **inhaltlich abgegrenzte** Phasen==
+- **Ziel:** ==Komplexität beherrschen & Struktur schaffen==
+- Zur besseren Koordination erfolgt die Festlegung von
+	- Standards
+	- Methoden
+	- Schritte
+	- Teil- & Endziele
+	- Artefakte
+- *Die Artefakte einer Phase dienen als Ausgangsbasis für die Nächste*
+
+### Übung
 > [!question] Klausurfragen
 > *Abgefragt wird abrufbares Wissen*
 > 1. Was bedeutet Thema *x*?
 > 2. Nennen Sie Beispiele für *xy*.
 
 
+> [!question] Verständnisfragen
+> 1. Wie lassen sich Projekte klassifizieren?
+> 2. Welche Projektmanagmentphasen kennen Sie?
+> 3. Wie hängen Projektmanagmentphasen und Projektphasen zusammen?
+> 4. Welche Rollen kennt Scrum?
+> 5. Welche Werte unterscheiden "konventionelles" Projektmanagment von agilem Projektmanagment?
+> 
+> _(Bächle/Daurer/Kolb, 2021)_
+
 ## Angebotsformen von Software
 
+### Standardsoftware
+
+> [!tldr] Standardsoftware
+> - nicht für einzelnen Kunden, sondern eine Kundengruppe mit ähnlichen Problemstellungen entwickelt
+> - Unterscheidung nach Komplexität der Produkte
+> 	Basissoftware → Standardbürosoftware → Funktionsorientierte Software → Prozessorientierte Software
+#### Unterscheidungskriterien
+
+#### Vor- und Nachteile
+
+| Vorteil | Nachteile |
+| ------- | --------- |
+|         |           |
+|         |           |
+
+### Individualsoftware
+
+> [!tldr] Individualsoftware
+> Für spezielle betriebliche Anforderungen mit gegebener Hard- und Softwareumgebung individuell entwickelt (*entweder selbst oder per Auftrag*)
+
+#### Vor- und Nachteile
+
+| Vorteil | Nachteile |
+| ------- | --------- |
+|         |           |
+|         |           |
+
+### Low-Code-Plattformen
+*nicht klausurrelevant*
+> [!tldr] Low-Code-Plattformen
+> - Softwareentwicklungsumgebungen mit visuellen Baussteinen
+> - Verwendung zur schnellen Entwicklung und einfachen Anpassung von Anpassungssystemen
+
+### Übung
 > [!question] Klausurfragen
 > Was sind die Vor- und Nachteile von Individual- und Standardsoftware
 
