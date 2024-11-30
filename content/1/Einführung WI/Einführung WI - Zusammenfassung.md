@@ -89,15 +89,25 @@
 ## Klassifizierungen
 - diverse Schemata für betriebliche Informationssysteme
 	- Einsatzgebiet
-	- [[#Hauptzweck]]
+	- [[#Organisationsebene]]
 	- Anwendungsbreite/-form
 	- Spezifität
 	- Bereitstellungsform (on-premise vs. on-demand)
-### Hauptzweck
-- [ ] Pyramiden Schaubilder
-#### Transaktionssystem
-#### Entscheidungsunterstützungssystem
-#### Interaktionssystem
+### Organisationsebene
+![[Unternehmensinterne Informationssysteme nach Organisationsebene.pdf]]
+#### Transaktionssysteme
+- [ ] Integrationsbezug S. 49 letzter Stichpunkt
+- elementare Leistungsprozesse des Unternehmens
+- Standardisierung & Automatisierung ermöglichen effektive & effiziente Verarbeitung
+- Prozesse mit hohem Datenvolumen
+- **Ziel:** ==Vollautomatisierung von Aufgaben== oder ==Teilautomatisierung zur Unterstützung menschlicher Mitarbeiter==
+##### Administrationssystem
+- vollständige Automatisierung & Rationalisierung der Massendatenverarbeitung
+##### Dispositionssysteme
+- menschliche operative Entscheidungen unterstützen bzw. ersetzen
+
+#### Managmentunterstützungssysteme
+#### Interaktionssysteme
 
 ## Integrationsarten
 ### horizontal ↔️ 
