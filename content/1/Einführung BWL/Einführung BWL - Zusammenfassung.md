@@ -306,7 +306,7 @@ Unternehmensaufbau nach Funktionsbereichen
 > [!info] Business Angels
 > ^a10fa5
 > - erfolgreicher Gründer, erfahrene Unternehmer o.Ä.
-> - Managment-Efahrung
+> - Managment-Erfahrung
 > - suchen Herausforderung in *dynamischer Unternehmensphase*
 > - langfristige finanzielle Beteiligung
 > - Networking & Expertise
