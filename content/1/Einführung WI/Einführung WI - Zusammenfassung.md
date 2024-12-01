@@ -335,7 +335,7 @@
 # Informationssysteme in der Wirtschaftsinformatik
 ## Datenmodellierung
 ### 1. Konzeptionelle Datenmodellierung
-- implementierungsunabhängig
+- *implementierungsunabhängig*
 - bildet Gegenstände der realen Welt & ihre Beziehungen untereinander ab
 #### Entity-Relationship Model
 
@@ -400,8 +400,61 @@
 | Daten werden an einem zentralen Ort bereitgestellt oder bearbeitet | Daten werden auf mehreren über Netzwerke verbundene physischen Orten gespeichert |
 
 ## Data Science
+
+> [!info] Begriffsdefinition Data Science
+> - interdisziplinäres Fachgebiet
+> - es werden ==relevante Informationen== aus überwiegend komplexen Datenbeständen ==extrahiert==
+> 	→ diese werden für datengetriebene ==Entscheidungsprozesse nutzbar== gemacht 
+
 ## Managmentsunterstützungssysteme
+### Big Data
+
+> [!tldr] Big Data
+> - ==Big Data== sind Datenbestände mit folgenden Merkmalen (**4-V-Modell**)
+> 	- **Masse (Volume)**
+> 		- Terra- bis Zettabyte
+> 	- **Vielfalt (Variety)**
+> 		- von unstruktrierten über semistrukturierten bis strukturierten Daten
+> 	- **Geschwindigkeit (Velocity)**
+> 		- Datenerfassung und -auswertung in Echtzeit
+> 	- **Richtigkeit (Veracity)**
+> 		- "hohe" Datenqualität ⇒ *Nutzbarkeit für betriebliche Entscheidungen*
+> 
+> **Zur Asuwertung werden typischerweise [[#Data Science]]-Methoden Eingesetzt**
+
 ## Wissensmanagment
+### Arten des Wissens
+#### individuell & kollektiv
+- **individuell:** Wissen eines ==einzelnen== Mitarbeiters, jedoch nicht notwendigerweise der Gesamtorganisation
+- **kollektiv:** steht in organisatorischen Einheiten (z.B. Teams) zur Verfügung und ist daher ==überindividuell==
+#### explizit & implizit
+- **explizit:** formalisierbar (z.B. Verschriftlichung), kann gespeichert und weitergegeben werden
+- **implizit:** nicht vollständig kodifizierbares Wissen ⇒ kann nicht zwischen Personen vermittelt werden
+![[implizites-explizites_Wissen.png]]
+
+
+> [!example] Beispiele: Wissensformen in Projekten
+> ![[Beispiele_explizites-implizites_Wissen.png]]
+
+### Kodifizierung von Wissen
+- *für Weitergabe* muss Wissen **kodifiziert** werden (z.B. Dokumente mit Sprache)
+
+| Vorteile                                                                | Nachteile                                                                                                                       |
+| ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| *zuvor lediglich implizites Wissen wird...*<br>==allgemein zugänglich== | Bestandteile impliziten Wissens ==gehen verloren== (insb. Erfahrungen und mit Kontextwissen des Individuums verbundenes Wissen) |
+| ==digital speicherbar==                                                 | ==Darstellungsformen== von Wissen sind ==**fehleranfällig**==                                                                   |
+| ==leichter weiterzugeben==                                              |                                                                                                                                 |
+| ==einfacher mit anderem Wissen **kombinierbar**==                       |                                                                                                                                 |
+
+### Probleme beim Wissensmanagment
+- Neuerfindung des Rads
+- Mitarbeiter verlassen das Unternehmen (z.B. Ruhestand)
+- ==unzureichender Austausch== von Wissen innerhalb von Unternehmen
+- relevantes organisationales ==Wissen wird nicht angemessen strukturiert und dokumentiert==
+
+### Ansätze & Arten des Wissensmanagment
+- **verhaltensorientierter Ansatz:** Mensch als eigentlicher Wissensträger steht im Vordergrund
+- **technologischer Ansatz:** technische Lösungen für das Wissensmanagment stehen im Vordergrund
 ---
 # Anwendungsfelder der Wirtschaftsinformatik
 ## Informationsmanagment

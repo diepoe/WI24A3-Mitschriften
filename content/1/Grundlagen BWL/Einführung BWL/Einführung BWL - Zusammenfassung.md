@@ -351,6 +351,15 @@ Unternehmensaufbau nach Funktionsbereichen
 > - Prototyp
 > - Team zusammenstellen
 
+
+> [!info] Businessplan
+>-  ==zeigt Risiken und Chancen auf==
+>-  Welche Geschäfte ergeben sich daraus?
+>- ==Finanzplan, Schätzung finanzielle und personelle Ressourcen==
+>-  erwartete Umsatzerlöse → Investition wirtschaftlich?
+>- **Ziel:** Investoren überzeugen
+
+
 **==📉 Unternehmen ist in Verlustzone==**
 
 > [!check] Finanzielle Stakeholder
