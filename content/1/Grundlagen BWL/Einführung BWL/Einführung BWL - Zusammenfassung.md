@@ -4,13 +4,14 @@
 > [!info] Allgemeine Grundlage
 > Güter sind aufgrund ihrer grundsätzlichen Knappheit begrenzt und erfordern einen ökonomischen (*effizienten*) Umgang
 
--  **ökonomisch** || wirtschaftlich
--  **ökonomischer Umgang** im engeren Sinne || profitmaximiertes Handeln (Min-Max-Prinzip)
--  **ökonomischer Umgang** im weiteren Sinne || Auflösen eines Zielkonflikts
+- **ökonomisch** || wirtschaftlich
+- **ökonomischer Umgang** im engeren Sinne || profitmaximiertes Handeln (Min-Max-Prinzip)
+- **ökonomischer Umgang** im weiteren Sinne || Auflösen eines Zielkonflikts
 
 ## Unterschied zwischen BWL und VWL
   
 ![[Unterschiede zwischen BWL und VWL.pdf]]
+
 ### Kennzahlen
 
 
@@ -21,7 +22,9 @@
 | Preisniveau                         | Customer Acquisition Cost  |
 |                                     | Gewinn, Umsatz             |
 |                                     | Rentabilität               |
+
 ### Saisonalität
+- [x] Saisonalität recherchieren 🔼 ⏳ 2024-11-22 ✅ 2024-11-26
 - **BWL:** Geschäftsjahre mit quartalsweisen Vergleichen
 - **VWL:** Konjunkturzyklus
 
@@ -33,13 +36,13 @@
 > 	2. Analyse
 > 	3. Lenkung
 >   
->   *Die VWL ist die ==abstraktere Schwesterdisziplin== zur BWL*
+>   *Die VWL ist die <mark>abstraktere Schwesterdisziplin</mark> zur BWL*
 
 
 > [!tldr] BWL - Kontext  
 > - **Ziele:** Unternehmen beschreiben und *erklären* ⇒ im Rahmen der Entscheidungsprozesse *konkret* **unterstützen**
 >   
-> ⇒ eine ==**rationale Betriebsführung**== ermöglichen
+> ⇒ eine <mark>**rationale Betriebsführung**</mark> ermöglichen
 
 
 ## Betriebwirtschaftslehre
@@ -52,7 +55,7 @@
 
 
 ### Betrieblicher Transformationsprozess mit Stakeholdern
- 
+
 ![[Betrieblicher Transformationsprozess.pdf]]
 
 #### Beschaffungsmarkt (*produktive Faktoren*)
@@ -93,7 +96,7 @@
 > [!tldr] Eckdaten Taylorismus  
 > **Ziel:** Steigerung der Produktivität menschlicher Arbeit
 > **Umsetzung:** Teilung der Arbeit in kleinste, aufwandsarme Einheiten
-> 	⇒ Wiederholung der kleinen Einheiten ermöglicht ==effiziente Arbeitsteilung==
+> 	⇒ Wiederholung der kleinen Einheiten ermöglicht <mark>effiziente Arbeitsteilung</mark>
 
 ## Henri Fayol
 
@@ -107,19 +110,21 @@
 >*zzgl. 14 Prinzipien des Managments*
 
 
-# 3. [[1/Wiki/Allgemeine Systemtheorie]]
+# 3. [[Allgemeine Systemtheorie]]
 
 > [!tldr] Zusammenfassung
 > Unternehmen als offene, sozio-ökonomische Systeme 
 
 ## Systemorientierte Betriebwirtschaftslehre
  
-- **Betriebswirtschaftliche Erkenntnisobjekte** als **Systeme** ==interpretieren==
+- **Betriebswirtschaftliche Erkenntnisobjekte** als **Systeme** <mark>interpretieren</mark>
 - *Nutzen:* Systemtheorie ist hauptsächlich **Zugang** zu **Steuerungs- und Führungsproblemen** von Unternehmen 
 
 # 4. Unternehmen als Regelkreis
 > [!tldr] Zusammenfassung   
 > Planung, **Steuerung** und **Kontrolle** von betrieblichen Aktivitäten
+
+- [x] Skript S. 42 als Zeichnung &   ✅ 2024-11-25
 
 ![[Unternehmen als Regelkreis.pdf]]
 
@@ -134,7 +139,7 @@
 
 
 
-|                      | ==Aufbau==organisation            | ==Ablauf==organisation |
+|                      | <mark>Aufbau</mark>organisation            | <mark>Ablauf</mark>organisation |
 | -------------------- | ------------------------------------------ | ------------------------------- |
 | Zweck                | Verknüpfung von **Organisationseinheiten** | Zerlegung des Arbeitsprozesses  |
 | Dargestellte Systeme | statische Strukturen                       | Dynamische Arbeitsprozesse      |
@@ -170,6 +175,9 @@
 | Vertikale Hierarchie<br>→ Weisungen von einer Stelle                         | horizontal in der Hierarchie eingebundene Stabsstellen<br>→  keine Weisungsbefugnis                           | Weisungen von mehreren Stellen |
 | Unterteilung in **Stellen mit Weisungsbefungnis** und **Ausführungsstellen** | - Vorschlagsrecht;<br>- einer oder mehreren Instanzen zugeordnet;<br>- Assistenzfunktion (fallweise Aufgaben) |                                |
 |                                                                              | Beispiel: Rechtsabteilung, Sekretariat                                                                        |                                |
+#### Beispiele
+![[Beispiel_Einliniensystem.png]]
+![[Beispiel_Mehrliniensystem.png]]
 #### Vor- und Nachteile
 ##### Einliniensystem
 
@@ -193,7 +201,7 @@
 ## Ablauforganisation
    
 - Arbeits- und Informations**prozesse**
-- Prozesse fließen ==**horizontal**== durch die [[#Organisationseinheit]]en der [[#Aufbauorganisation]]
+- Prozesse fließen <mark><b>horizontal</b></mark> durch die [[#Organisationseinheit]]en der [[#Aufbauorganisation]]
 ### Ziele
  
 - Aufwand minimieren
@@ -208,7 +216,7 @@
 ### Querschnittsfunktionen
  
 - neben den **Grundfunktionen** vorhanden
-- ==verantworten Themengebiete <b>über mehrere Hauptlinien hindurch</b>==
+- <mark>verantworten Themengebiete <b>über mehrere Hauptlinien hindurch</b></mark>
 - die Themengebiete sind dort *jeweils nicht Hauptgeschäft*
 
 > [!example] Beispiele
@@ -227,8 +235,9 @@
 > Was sind Querschnittsfunktionen in einer Linienorganisation?
 > Nennen Sie ein Beispiel für eine Querschnittsfunktion und erklären Sie anhand des Beispiels den Begriff Querschnittsfunktion.
 
-### *Prozessorganisation*
-
+### <mark>Prozessorganisation</mark>
+  
+- [x] Zeichnung Prozessorganisation Struktur S. 64f ✅ 2024-11-24
 ![[Prozessorganisation.pdf]]
 
 
@@ -257,6 +266,7 @@
 ## Funktionalorganisation
 Unternehmensaufbau nach Funktionsbereichen
 
+- [x] Aufbau Funktionalorganisation Screenshot ✅ 2022-01-01
 ![[Funktionalorganisation.png]]
 
 | Vorteile                                                                         | Nachteile                                                |
@@ -296,7 +306,6 @@ Unternehmensaufbau nach Funktionsbereichen
 
 # 7. Lebensphasen von Unternehmen und Unternehmenskultur
 
-
 ## Kapitalgeber
 > [!info] 3 F's
 >
@@ -333,7 +342,7 @@ Unternehmensaufbau nach Funktionsbereichen
 ### Übersicht
 
 ![[Lebensphasen eines Unternehmens.pdf]]
-### 1. Seed (*Samen*)
+### 1. Seed
 
 > [!tldr] Phasenmerkmale
 > - Konzeptentwicklung
@@ -433,10 +442,10 @@ Unternehmensaufbau nach Funktionsbereichen
 ### Risiken
 
 > [!danger] Risiken des Stakeholder Ansatzes
->
 > ==Missachtung der Stakeholderinteressen **kann SCHWERWIEGENDE Folgen haben**==
 > 
 > - **Beispiele:**
 >   - kein Bearbeiten von Kundenbeschwerden ⇒ *Kunden wandern ab und warnen vor Unternehmen*
 >   - schlechtes Behandeln der Mitarbeiter ⇒ Schädigung der öffentlichen Reputation
+
 
