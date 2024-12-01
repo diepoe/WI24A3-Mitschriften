@@ -342,18 +342,23 @@
 > [!tldr] Entity-Relationship Model in Entity-Relationship-Diagram (ERD)
 > - **jede Entität wird ==mit Attributen beschrieben==**
 > 	- Attribute ==müssen einzigartige Identifizierung der Entitäten ermöglichen (ein Attribut ist *Primärschlüssel* (unique identifier))==
+> 	- Entitäten desselben Typs werden mit denselben Attributen beschrieben
 > - **Relationships** (Beziehungen)
 > 	- Beziehungen zwischen zwei oder mehreren Entitäten
 > 	- beschreibbar mit Attributen
 > 	- implizieren Leserichtung
+> - **Kardinalitäten**
+> 	- Komplexität des Beziehungstyps zwischen zwei Entities
+> 	- quantitative Spezifikation für die Menge der auftretenden Beziehungen
+> 	- Unterscheidung zwischen 1:1-, 1:n- und n:m-Beziehungen
 >
 >> [!example] Beispiel
-> > 
+> > ![[Beispiel_ERM.png]]
 >
 >^e9d390
 
 ### 2. Logisches Datenmodell
-- **Startpunkt:** Art der Deatenbank? ⇒ *relationelles Datenmodell !*
+- **Startpunkt:** Art der Datenbank? ⇒ *relationelles Datenmodell !*
 - **Zielstellung:** Überführung des [[#^e9d390|konzeptionellen Datenmodells]] aus (1.) in ein auf die gewählte Datenbank zugeschnittenes ==*logisches Datenmodell*==
 
 
@@ -422,6 +427,8 @@
 > 
 > **Zur Asuwertung werden typischerweise [[#Data Science]]-Methoden Eingesetzt**
 
+#### Strukturierungsgrad von Daten
+![[Strukturierungsgrad_Daten.png]]
 ## Wissensmanagment
 ### Arten des Wissens
 #### individuell & kollektiv
