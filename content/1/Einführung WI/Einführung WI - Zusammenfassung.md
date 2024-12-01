@@ -143,7 +143,7 @@
   B2B vs. B2C
  
 > [!danger] Hinweis zu präsentierten IS
-ERP, CRM, SCM etc. sind nur in den Karteikarten eingepflegt
+>ERP, CRM, SCM etc. sind nur in den Karteikarten eingepflegt
 ## Übung
 
 > [!question] KLAUSURFRAGEN
@@ -281,11 +281,11 @@ ERP, CRM, SCM etc. sind nur in den Karteikarten eingepflegt
 | vielfältige Kriterien für Lizenzkosten                                                                                               | keine Lizenzkosten (oftmals jedoch kostenpflichtige Ergänzungsmodule)                                                                                                                                                                 |
 
 
-> [!tldr] On-Premise
+> [!info] On-Premise
 > - direkt auf den unternehmenseigenen Servern und Infrastrukturen installiert und betrieben
 > - gesamte Infrastruktur, Wartung und Sicherheit liegt vollständig in der Verantwortung des Unternehmens selbst
 
-> [!tldr] On-Demand
+> [!info] On-Demand
 > - als Dienst über das Internet bereitgestellt wird (auch bekannt als SaaS - Software as a Service)
 >- Anwendung wird zentral gehostet und vom Anbieter gewartet
 >- Nutzer greifen über einen Webbrowser oder eine App darauf zu
@@ -326,6 +326,9 @@ ERP, CRM, SCM etc. sind nur in den Karteikarten eingepflegt
 > Was sind die Vor- und Nachteile von Individual- und Standardsoftware
 
 ## \[Einführung & Entwicklung von Informationssystemen]
+- [ ] Lastenheft & Pflichtenheft
+
+
 ## \[Digitalisierung und digitale Transformation]
 
 ---
@@ -346,12 +349,56 @@ ERP, CRM, SCM etc. sind nur in den Karteikarten eingepflegt
 >
 >> [!example] Beispiel
 > > 
-
-^e9d390
+>
+>^e9d390
 
 ### 2. Logisches Datenmodell
 - **Startpunkt:** Art der Deatenbank? ⇒ *relationelles Datenmodell !*
 - **Zielstellung:** Überführung des [[#^e9d390|konzeptionellen Datenmodells]] aus (1.) in ein auf die gewählte Datenbank zugeschnittenes ==*logisches Datenmodell*==
+
+
+> [!tldr] Relationenmodell
+> - Grundlage des Relationenmodells ist die ==**Relation**==
+> 	- eine Relation ist eine Menge von Tupeln
+> 	- Tupel in tabellenförmiger Darstellung (Tupel = Tabellenzeile)
+> 	- Relation entspricht **einem Entity-Typ**, die ==Spalten entsprechen den Attributen==
+>
+>> [!example] Beispiel
+> > ![[Relationenmodell Beispiel.jpg]]
+
+
+> [!warning] Klausurhinweis
+> Hinweise auf Kardinalität in logischem Datenmodell aus Texten herausfinden können.
+
+
+> [!question] Beispielaufgaben Modellierung
+> - Überführen Sie das ER-Modell vollständig in ein Relationenmodell:
+> ![[Beispiel_ER-Modell.png]]
+> ---
+> **Modellierungsaufgaben:**
+> https://deristvollfettdertrottl.wordpress.com/aufgabensammlung-von-er-diagrammen-2/
+
+### 3. Physischer Datenbankentwurf
+- Realisierung der logischen Datenmodelle erfolgt durch **Datenbankmanagmentsysteme (DBMS)**
+
+> [!info] DBMS
+> - effiziente und rechnergestützten Organisation, Speicherung, Manipulation, Integration und Verwaltung großer Datenmengen
+> - **Funktionen**
+> 	- Speicherung, Überschreiben und Löschung (*CRUD* - Create, Read, Update, Delete)
+> 	- Datenverwaltung auf Basis des Datenmodells
+> 	- Datensicherheit, -schutz & -integrität
+> 	- Mehrbenutzerbetrieb
+> 	- effiziente Speichernutztung & optimierter Zugriff
+> 
+> > [!example] Beispiele
+> > MySQL, PostgreSQL, Oracle Database
+
+#### Vorgehensweisen bei der Speicherung von Daten
+
+| *zentrale* Datenbank                                               | *verteilte* Datenbank                                                            |
+| ------------------------------------------------------------------ | -------------------------------------------------------------------------------- |
+| Daten werden an einem zentralen Ort bereitgestellt oder bearbeitet | Daten werden auf mehreren über Netzwerke verbundene physischen Orten gespeichert |
+
 ## Data Science
 ## Managmentsunterstützungssysteme
 ## Wissensmanagment
