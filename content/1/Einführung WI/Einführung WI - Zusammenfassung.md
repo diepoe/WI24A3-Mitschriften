@@ -141,7 +141,9 @@
 ## Unternehmensübergreifende Informationssysteme
 - **zwischenbetrieblich** vs. **endkundenorientiert**
   B2B vs. B2C
-- [ ] Klausurrelevanz von ERP & Co. erfragen
+ 
+> [!danger] Hinweis zu präsentierten IS
+ERP, CRM, SCM etc. sind nur in den Karteikarten eingepflegt
 ## Übung
 
 > [!question] KLAUSURFRAGEN
@@ -260,6 +262,7 @@
 > 
 > _(Bächle/Daurer/Kolb, 2021)_
 
+- [ ] ab hier Karteikarten
 ## Angebotsformen von Software
 
 ### Standardsoftware
@@ -269,13 +272,33 @@
 > - Unterscheidung nach Komplexität der Produkte
 > 	Basissoftware → Standardbürosoftware → Funktionsorientierte Software → Prozessorientierte Software
 #### Unterscheidungskriterien
+- Rechte an der Software
+- Installationsort (bei Kunde oder von Anwender)
+
+| Traditionelle Standardsoftware                                                                                                       | Open Source                                                                                                                                                                                                                           |
+| ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| meist individuelle Konfiguration<br>⇒ geringere Diskrepanz zwischen betrieblichen Anforderungen und dem Funktionsumfang der Software | verteilter Entwicklungsprozess mit Entwicklern unterschiedlicher Unternehmen und Freiwilligen; öffentlich zugängiger Quellcode<br>→ Systeme können über Customizing hinaus auf Quellcodeebene unternehmensspezifisch angepasst werden |
+| vielfältige Kriterien für Lizenzkosten                                                                                               | keine Lizenzkosten (oftmals jedoch kostenpflichtige Ergänzungsmodule)                                                                                                                                                                 |
+
+
+> [!tldr] On-Premise
+> - direkt auf den unternehmenseigenen Servern und Infrastrukturen installiert und betrieben
+> - gesamte Infrastruktur, Wartung und Sicherheit liegt vollständig in der Verantwortung des Unternehmens selbst
+
+> [!tldr] On-Demand
+> - als Dienst über das Internet bereitgestellt wird (auch bekannt als SaaS - Software as a Service)
+>- Anwendung wird zentral gehostet und vom Anbieter gewartet
+>- Nutzer greifen über einen Webbrowser oder eine App darauf zu
 
 #### Vor- und Nachteile
 
-| Vorteil | Nachteile |
-| ------- | --------- |
-|         |           |
-|         |           |
+| Vorteile                              | Nachteile                                           |
+| ------------------------------------- | --------------------------------------------------- |
+| **==Günstigere==** Anschaffungskosten | **Begrenzte Anpassungsmöglichkeiten**               |
+| *Schnelle Implementierung*            | *Möglicherweise Überschuss an unnötigen Funktionen* |
+| ==Getestete und bewährte Lösung==     | **Wenig Differenzierung von Mitbewerbern**          |
+| ==Regelmäßige Updates==               | ==Risiko, nicht alle Geschäftsprozesse abzubilden== |
+| ==Standardisierte Prozesse==          | *Eingeschränkte Unternehmens-Individualität*        |
 
 ### Individualsoftware
 
@@ -284,10 +307,13 @@
 
 #### Vor- und Nachteile
 
-| Vorteil | Nachteile |
-| ------- | --------- |
-|         |           |
-|         |           |
+| Vorteile                                         | Nachteile                         |
+| ------------------------------------------------ | --------------------------------- |
+| ==Genau auf Unternehmensprozesse zugeschnitten== | ==Höhere Entwicklungs**kosten**== |
+| ==Hohe Flexibilität und Anpassungsfähigkeit==    | ==Längere Entwicklungszeit==      |
+| **Keine Kompromisse** bei Funktionalitäten       | *Risiken* bei Implementierung     |
+| **Wettbewerbsvorteil** durch Unique Features     | **Aufwändige Wartung**            |
+| *Vollständige Kontrolle* über Entwicklung        | *Abhängigkeit* von Entwicklern    |
 
 ### Low-Code-Plattformen
 *nicht klausurrelevant*
@@ -299,11 +325,33 @@
 > [!question] Klausurfragen
 > Was sind die Vor- und Nachteile von Individual- und Standardsoftware
 
-## Einführung & Entwicklung von Informationssystemen
-## Digitalisierung und digitale Transformation
+## \[Einführung & Entwicklung von Informationssystemen]
+## \[Digitalisierung und digitale Transformation]
+
 ---
 # Informationssysteme in der Wirtschaftsinformatik
 ## Datenmodellierung
+### 1. Konzeptionelle Datenmodellierung
+- implementierungsunabhängig
+- bildet Gegenstände der realen Welt & ihre Beziehungen untereinander ab
+#### Entity-Relationship Model
+
+> [!tldr] Entity-Relationship Model in Entity-Relationship-Diagram (ERD)
+> - **jede Entität wird ==mit Attributen beschrieben==**
+> 	- Attribute ==müssen einzigartige Identifizierung der Entitäten ermöglichen (ein Attribut ist *Primärschlüssel* (unique identifier))==
+> - **Relationships** (Beziehungen)
+> 	- Beziehungen zwischen zwei oder mehreren Entitäten
+> 	- beschreibbar mit Attributen
+> 	- implizieren Leserichtung
+>
+>> [!example] Beispiel
+> > 
+
+^e9d390
+
+### 2. Logisches Datenmodell
+- **Startpunkt:** Art der Deatenbank? ⇒ *relationelles Datenmodell !*
+- **Zielstellung:** Überführung des [[#^e9d390|konzeptionellen Datenmodells]] aus (1.) in ein auf die gewählte Datenbank zugeschnittenes ==*logisches Datenmodell*==
 ## Data Science
 ## Managmentsunterstützungssysteme
 ## Wissensmanagment
