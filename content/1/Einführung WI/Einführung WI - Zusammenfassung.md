@@ -455,6 +455,26 @@
 ### Ansätze & Arten des Wissensmanagment
 - **verhaltensorientierter Ansatz:** Mensch als eigentlicher Wissensträger steht im Vordergrund
 - **technologischer Ansatz:** technische Lösungen für das Wissensmanagment stehen im Vordergrund
+
+### Aufgaben des Wissensmanagments
+#### Strategieebene
+- ==**Definition der Wissensziele**==
+- **Zielbeitrag** des Wissensmanagments für den strategischen Unternehmenserfolg muss ==laufend bewertet== werden
+
+#### Prozessebene
+- **Wissensidentifikation**
+	- Welches Wissen haben wir, welches fehlt?
+- **Wissenserwerb**
+	- Erschließung von Wissensquellen zur Schließung von Wissenslücken
+- **Wissensentwicklung**
+	- Neues relevantes Wissen gezielt entwickeln
+- **Wissensverteilung**
+	- Mitarbeitern Wissen zielgerichtet für Aufgabenerfüllung zur Verfügung stellen
+- **Wissensnutzung**
+	- Mitarbeiter motivieren, Wissensquellen tatsächlich zu nutzen
+- **Wissensbewahrung**
+	- Präventation unbeabsichtigten Wissensverlust
+
 ---
 # Anwendungsfelder der Wirtschaftsinformatik
 ## Informationsmanagment
