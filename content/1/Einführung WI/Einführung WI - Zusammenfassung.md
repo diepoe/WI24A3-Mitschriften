@@ -247,7 +247,8 @@
 - *Die Artefakte einer Phase dienen als Ausgangsbasis für die Nächste*
 
 > [!example] Vorgehensmodelle
-![[Vorgehensmodelle.png]]
+> 
+> ![[Vorgehensmodelle.png]]
 
 ### Übung
 > [!question] Klausurfragen
@@ -488,15 +489,84 @@
 ---
 # Anwendungsfelder der Wirtschaftsinformatik
 ## Ansätze zur Ausgestaltung & Umsetzung des Informationsmanagments
-- **Beschäftigungsfeld WI **
+
+> [!check] Beschäftigungsfeld WI 
+> Entwicklung und Anwendung von Informationssystemen für betriebliche Aufgabenstellungen
+
+> [!info] Informationsmanagment
+> Planung, Steuerung & Kontrolle von
+> - Informationen
+> - Informationssystemen
+> - Informations- & Kommunikationstechnik
+
+> [!danger] Ausgestaltungs- und Umsetzungsansätze des Informationsmanagments
+> - prozessorientierte Konzepte
+> - Architektur- bzw. Referenzmodelle
+> - Problemorientierte und aufgebenorientierte Konzepte
+
+### Prozessorientierte Ansatz: Information Technology Infrastructure Library (ITIL)
+- **Modell:** beschreibt, **WAS** gemacht werden muss, *nicht* **WIE** die Umsetzung konkret aussehen soll
+
+- **Kernprozesse (*ITIL 3*):** 
+	 - Sevice Strategy, Service Transition, Service Operation, Continual Service Improvement
+> [!hint] Merkhilfe
+> STOCsi
+> Simples Thunfisch Orgien Continual-Service-Improvement
+
+### Architekturmodell: ARIS
+⇒ Architektur integrierter Informationssysteme
+#### ARIS-Haus (ARIS House of Business Engineering)
+- fünf Beschreibungsschichten
+	- Organisation, Daten, Steuerung/Prozess, Funktion, Leistung
+- Untergliederung der Beschreibungsschichten in drei Ebenen
+	- Fachkonzept → Datenverarbeitungskonzept → Implementierung
+
+### Aufgabenorientierter Ansatz *nach Heinrich*
+- ==Aufgaben auf strategischer Ebene==
+	- Planung, Überwachung & Steuerung der Informationsinfrastruktur als Ganzes
+- ==Aufgaben auf administrativer Ebene==
+	- Planung, Überwachung & Steuerung des Informationsinfrastrukturbestands 
+	  ⇒ **Ziel:** produktiv verfügbare IT-Komponenten bereitstellen
+- ==Aufgaben auf operativer Ebene==
+	- Nutzung der Informationsinfrastruktur
 
 ## Geschäftsmodelle
-### Konzept
-### Geschätsmodelle & Digitalisierung
+
+> [!tldr] Definition Geschäftsmodell
+> Kompaktes Konzept zur Analyse verschiedener Aspekte einer Unternehmung
+> 
+> > [!example] Hintergrund
+> > zunehmende Digitalisierung sorgt für Innovationen, die weder klassischen Produkt- noch Prozessinnovationen entsprechen
+
 ### Business Model Canvas
+- *Framework*, um ==Elemente eines Geschäftsmodells  strukturiert zusammenzufassen==
+- **Einstiegsmöglichkeit** für ==Erstellung Business Plan== oder ==
+- analyse bestehender Geschäftsmodelle==
 ## Geschäftsprozessmodellierung
+
+> [!info] Definition Geschäftsprozess
+> Sachlogisch-zeitliche Abfolge von Tätigkeiten/Aktivitäten/Vorgängen
+
+> [!tldr] Merkmale von Geschäftsprozessen
+> - durch Ereignis ausgelöst und beendet
+> - nicht an organisatorische Unternehmensgrenzen gebunden
+> - **Ausführungsmöglichkeiten:** nacheinander, wiederholt, parallel, alternativ
+> - Abbildung von standardisierbaren Routinetätigkeiten
+> - <u>Unterteilung</u>
+> 	- Managmentprozesse
+> 	- Geschäfts-/Kernprozesse
+> 	- Unterstützungsprozesse
+
+> [!check] Voraussetzung zur Abbildung von Geschäftsprozessen in IS
+> - [ ] **Geschäftsprozessanalyse** → Erfassung *Ist-Zustand*
+> - [ ] **Geschäftsprozessoptimierung** → Modellierung *gewünschter Soll-Zustand*
+> - [ ] ==In der Praxis sind keinen optimalen Geschäftsprozesse vorhanden, Modellierung kann jedoch zur Optimierung beitragen, *bevor* vor Abbildung in IS erfolgt==
+
 ## Ermittlung der Anforderungen an Informationssystem
 ### Wovon hängen die Anforderungen an ein Informationssystem ab?
 - Geschätsmodell
 - ==Unternehmensaufbau==
 - ==(Geschäfts)prozesse==
+
+> [!warning] Aufbau- & Ablauforganisation
+> siehe [[Einführung BWL - Zusammenfassung#5. Funktionalbereiche und Querschnittsfunktionen|Zusammenafssung BWL]]
