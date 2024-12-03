@@ -246,6 +246,9 @@
 	- Artefakte
 - *Die Artefakte einer Phase dienen als Ausgangsbasis für die Nächste*
 
+> [!example] Vorgehensmodelle
+![[Vorgehensmodelle.png]]
+
 ### Übung
 > [!question] Klausurfragen
 > *Abgefragt wird abrufbares Wissen*
@@ -484,7 +487,9 @@
 
 ---
 # Anwendungsfelder der Wirtschaftsinformatik
-## Informationsmanagment
+## Ansätze zur Ausgestaltung & Umsetzung des Informationsmanagments
+- **Beschäftigungsfeld WI **
+
 ## Geschäftsmodelle
 ### Konzept
 ### Geschätsmodelle & Digitalisierung
