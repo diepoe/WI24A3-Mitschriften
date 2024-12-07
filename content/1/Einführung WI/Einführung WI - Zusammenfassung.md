@@ -1,3 +1,4 @@
+
 # Grundlegende Begriffe
 ## Wirtschaftsinformatik
 → *Information Systems*
@@ -64,7 +65,7 @@
 
 
 > [!info] Soziotechnisches System
-> - Beziehungen und Wechselwirkungen **zwischen sozialen und technischen Systemen**
+> - Beziehungen und Wechselwirkungen **zwischen sozialen und technischen Systemen** (Mensch-Maschine)
 > → soziale & technische Systeme werden *Teilsystem des soziotechnischen Systems*
 > ---
 > <u>Untersuchungsaspekte:</u>
@@ -231,8 +232,8 @@
 - **Backlog**
   Alle Anforderungen
 - **Sprint Backlog**
-  im Sprint bearbeitete Anforderungen
-- **Inkrement**
+  im Sprint bearbeitete Anforderungen, priorisiert
+- **Produktinkrement**
   unmittelbar nutzbares Ergebnis des Sprints
 
 ### Vorgehensmodelle in der Softwareentwicklung
@@ -284,7 +285,7 @@
 | meist individuelle Konfiguration<br>⇒ geringere Diskrepanz zwischen betrieblichen Anforderungen und dem Funktionsumfang der Software | verteilter Entwicklungsprozess mit Entwicklern unterschiedlicher Unternehmen und Freiwilligen; öffentlich zugängiger Quellcode<br>→ Systeme können über Customizing hinaus auf Quellcodeebene unternehmensspezifisch angepasst werden |
 | vielfältige Kriterien für Lizenzkosten                                                                                               | keine Lizenzkosten (oftmals jedoch kostenpflichtige Ergänzungsmodule)                                                                                                                                                                 |
 
-
+#### On-Premise & On-Demand
 > [!info] On-Premise
 > - direkt auf den unternehmenseigenen Servern und Infrastrukturen installiert und betrieben
 > - gesamte Infrastruktur, Wartung und Sicherheit liegt vollständig in der Verantwortung des Unternehmens selbst
@@ -294,6 +295,7 @@
 >- Anwendung wird zentral gehostet und vom Anbieter gewartet
 >- Nutzer greifen über einen Webbrowser oder eine App darauf zu
 
+![[Vergleich_OnPremise-OnDemand.png]]
 #### Vor- und Nachteile
 
 | Vorteile                              | Nachteile                                           |
@@ -320,7 +322,6 @@
 | *Vollständige Kontrolle* über Entwicklung        | *Abhängigkeit* von Entwicklern    |
 
 ### Low-Code-Plattformen
-*nicht klausurrelevant*
 > [!tldr] Low-Code-Plattformen
 > - Softwareentwicklungsumgebungen mit visuellen Baussteinen
 > - Verwendung zur schnellen Entwicklung und einfachen Anpassung von Anpassungssystemen
@@ -408,6 +409,13 @@
 | ------------------------------------------------------------------ | -------------------------------------------------------------------------------- |
 | Daten werden an einem zentralen Ort bereitgestellt oder bearbeitet | Daten werden auf mehreren über Netzwerke verbundene physischen Orten gespeichert |
 
+> [!question] Verständinisfrage
+> 1. Erläutern Sie die wesentlichen Unterschiede zwischen einem ER-Modell und einem relationalen Modell.
+> 2. Welche Funktionen erfüllt ein Datenbank-Managment-System?
+> 
+> **Buchaufgaben Modellierung**
+> ![[Kap5_Datenmodellierung.pdf]]
+
 ## Data Science
 
 > [!info] Begriffsdefinition Data Science
@@ -429,7 +437,7 @@
 > 	- **Richtigkeit (Veracity)**
 > 		- "hohe" Datenqualität ⇒ *Nutzbarkeit für betriebliche Entscheidungen*
 > 
-> **Zur Asuwertung werden typischerweise [[#Data Science]]-Methoden Eingesetzt**
+> **Zur Auswertung werden typischerweise [[#Data Science]]-Methoden Eingesetzt**
 
 #### Strukturierungsgrad von Daten
 ![[Strukturierungsgrad_Daten.png]]
@@ -540,8 +548,7 @@
 
 ### Business Model Canvas
 - *Framework*, um ==Elemente eines Geschäftsmodells  strukturiert zusammenzufassen==
-- **Einstiegsmöglichkeit** für ==Erstellung Business Plan== oder ==
-- analyse bestehender Geschäftsmodelle==
+- **Einstiegsmöglichkeit** für ==Erstellung Business Plan== oder ==Analyse bestehender Geschäftsmodelle==
 ## Geschäftsprozessmodellierung
 
 > [!info] Definition Geschäftsprozess
