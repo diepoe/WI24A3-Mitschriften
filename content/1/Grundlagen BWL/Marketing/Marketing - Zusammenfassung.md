@@ -113,6 +113,42 @@ $$ \text{Äußern einer Kaufabsicht} = \text{Nachfrage}$$
 	- **Ziel:** ==Eigenfinanzierung sicherstellen (z.B. Spenden)==
 
 # 3.Käuferverhaltensforschung als Grundlage von Marketing-Aktivitäten
+## Verhaltensweisen bei der Kaufentscheidung
+- <b><mark>extensive</mark> Kaufentscheidung</b>
+	- Käufer ==beschäftigt sich umfassend== mit geplanten Kauf
+- <b><mark>limitierte</mark> Kaufentscheidung</b>
+	- ==Erleichterung== der Kaufentscheidung durch ==Vorlimitierung der Auswahl==
+- <b><mark>habitualisierte</mark> Kaufentscheidung</b>
+	- Kauf ==aus Gewohnheit==
+- <b><mark>impulsive</mark> Kaufentscheidung</b>
+	- ==affektgesteuert==e Kaufentscheidung *"aus dem Bauch heraus"*
+
+⇒ Entscheidungsaufwand des Käufers beim Kauf nimmt ab = Ansprechbarkeit durch Marketing nimmt zu
+
+## Hybride Konsumenten ⚠︎
+- Kunden kaufen ==sowohl günstig== ein (Discounter, Sale) als auch ==gleichzeitig Premium- und Luxusprodukte==
+
+- **Aspekte des widersprüchlichen Verhaltens**
+	- teuer ↔️ günstig
+	- ökologisch ↔️ umweltschädlich
+	- online ↔️ stationär
+
+==⇒ Hybrides Kaufverhalten erschwert Zielgruppendefinition und -ansprache==
+
+## Involvment
+- ==Intensität und Emotionalität der Kaufentscheidung==
+- **Unterscheidung** zwischen *High Involvment ↔️ Low Involvment*
+
+### Werbeansätze
+
+| High Involvment                      | Low Involvment               |
+| ------------------------------------ | ---------------------------- |
+| stärkere ==sachliche Argumentation== | ==emotionale Werbung==       |
+| **ausführliche** Information         | ==kurzfristige== Kaufanreize |
+| mehr Sprache                         |                              |
+| mehr persönlicher Kontakt            |                              |
+
+
 # (4. Grundlagen der Marketing Forschung)
 # 5. Marketing-Ziele und Marketing-Strategien
 ## Systematisierung
