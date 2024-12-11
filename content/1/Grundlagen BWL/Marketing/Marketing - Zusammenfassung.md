@@ -89,15 +89,19 @@ $$ \text{Äußern einer Kaufabsicht} = \text{Nachfrage}$$
 
 
 > [!tldr] Zielgruppendefinition **"Engpass-Konzetrierten Strategie"** (EKS) nach Wolfgang Mewes
-> Contents
+> 
+> **Zielgruppe** ist ==eine Gruppe von Menschen== mit ==gleichen Problemen, Wünschen und Bedürfnissen==
 
+## Marketingkonzept
+### Phasen
+![[Marketingkonzept_Phasen.pdf]]
 
 # 3.Käuferverhaltensforschung als Grundlage von marketing-Aktivitäten
 # (4. Grundlagen der Marketing Forschung)
 # 5. Marketing-Ziele und Marketing-Strategien
 ## Systematisierung
 # 6. Marketing-Mix
-## Produkt- und Porgrammpolitik
+## Produkt- und Programmpolitik
 ## Preispolitik
 ## Distributionspolitik
 ## Kommunikationspolitik
