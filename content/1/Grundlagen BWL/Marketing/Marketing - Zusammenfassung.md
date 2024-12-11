@@ -70,12 +70,28 @@
 > Ist ==Kombination aus Bedürfnissen== der Verbraucher ==und== deren ==Kaufkraft==
 
 ## *Zusammenfassung*
+
 $$ \text{Bedürfnis} \ne \text{Bedarf}$$
 $$ \text{Bedürfnis} = \text{subjektiver Mangel}$$
 $$ \text{Bedürfnis} + \text{Kaufkraft} = \text{Bedarf}$$
 $$ \text{Äußern einer Kaufabsicht} = \text{Nachfrage}$$
 
 # 2. Entwicklung und Konzept des Marketing
+
+> [!tldr] Zentrale Aufgabe des Marketing
+> - ==Erwartungen & Bedürfnisse== einer Zielgruppe ==erfolgreich bedienen==
+> - Prozesse effizient gestalten → ==Marketingkonzept==
+> 	- ==Koordination marktbezogener Maßnahmen==
+
+
+> [!check] Vorüberlegungen Marketingkonzept
+> - Zielgruppenausrichtung ⇒ ==Kudenavatar erstellen==
+
+
+> [!tldr] Zielgruppendefinition **"Engpass-Konzetrierten Strategie"** (EKS) nach Wolfgang Mewes
+> Contents
+
+
 # 3.Käuferverhaltensforschung als Grundlage von marketing-Aktivitäten
 # (4. Grundlagen der Marketing Forschung)
 # 5. Marketing-Ziele und Marketing-Strategien
