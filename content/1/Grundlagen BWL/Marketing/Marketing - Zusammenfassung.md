@@ -25,7 +25,25 @@
 ![[Beduerfnisse.png]]
 
 ### Bedürfnispyramide nach Maslow
+- **Modell der Motivationsthorie** → erklärt menschliches Verhalten und Handeln auf individueller und kollektiver Ebenen
+
 ![[Beduerfnispyramide_nachMaslow.pdf]]
+- **Defizitbedürfnisse:** wenn diese nicht dauerhaft erfüllt werden, nimmt der Mensch körperlich oder physisch Schaden
+- **Wachstumsbedürfnisse:** können nie vollständig gestillt werden, ==motivieren dauerhaft== & werden erst mit Erfüllung der *Defizitbedürfnisse* relevant
+
+==⇒ aus der Bedürfnispyramide lassen sich Schlussfolgerungen für die Motivation von Mitarbeitern ableiten==
+
+> [!warning] Hinweis
+> Die Motivation der Mitarbeiter sollte nicht durch Geld, sondern die ==**Stillung** reeler Bedürfnisse== getrieben werden
+
+
+> [!danger] Kritik an der Bedürfnispyramide
+> - starker Vereinfachungsgrad
+>
+> → in der Praxis wird die Hierarchie der Stufen nie exakt eingehalten
+
+### Dynamische Darstellung der Bedürfnishierarchie
+![[DynamischeBeduerfnishierarchie.jpeg]]
 # 2. Entwicklung und Konzept des Marketing
 # 3.Käuferverhaltensforschung als Grundlage von marketing-Aktivitäten
 # (4. Grundlagen der Marketing Forschung)
