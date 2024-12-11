@@ -96,7 +96,23 @@ $$ \text{Äußern einer Kaufabsicht} = \text{Nachfrage}$$
 ### Phasen
 ![[Marketingkonzept_Phasen.pdf]]
 
-# 3.Käuferverhaltensforschung als Grundlage von marketing-Aktivitäten
+### Marketingausrichtungen
+- **Konsumgütermarketing** (*B2C-Marketing*)
+	- ==Vermarktung== von Verbrauchsgütern ==an Privatpersonen==/-haushalte ==zum Endverbrauch==
+	- i.d.R. von Hersteller betrieben
+	- ==Marketing-Schwerpunkt==
+- **Investitionsgütermarketing**
+	- ==Vermarktung== von Invesitionsgütern an ==Staat==, öffentliche Institutionen oder ==Unternehmen== (z.B. Maschinenverkauf)
+- **Dienstleistungsmarketing**
+	- individuellere Leistungserbringungen, ==i.d.R. direkte Leisungserbringung notwendig==
+	- direkter Kontakt zum Kunden
+- **Handelsmarketing**
+	- Werbung zwischengeschalteter Händler (z.B. Lidl-Prospekt)
+- **Non-Profit-Marketing**
+	- **keine** Gewinnorientierung, sondern ==Gemeinnützigkeit==
+	- **Ziel:** ==Eigenfinanzierung sicherstellen (z.B. Spenden)==
+
+# 3.Käuferverhaltensforschung als Grundlage von Marketing-Aktivitäten
 # (4. Grundlagen der Marketing Forschung)
 # 5. Marketing-Ziele und Marketing-Strategien
 ## Systematisierung
