@@ -69,6 +69,11 @@
 > 
 > Ist ==Kombination aus Bedürfnissen== der Verbraucher ==und== deren ==Kaufkraft==
 
+## *Zusammenfassung*
+$$ \text{Bedürfnis} \ne \text{Bedarf}$$
+$$ \text{Bedürfnis} = \text{subjektiver Mangel}$$
+$$ \text{Bedürfnis} + \text{Kaufkraft} = \text{Bedarf}$$
+$$ \text{Äußern einer Kaufabsicht} = \text{Nachfrage}$$
 
 # 2. Entwicklung und Konzept des Marketing
 # 3.Käuferverhaltensforschung als Grundlage von marketing-Aktivitäten
