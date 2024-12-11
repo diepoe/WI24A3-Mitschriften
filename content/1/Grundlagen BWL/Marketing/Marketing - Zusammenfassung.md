@@ -44,6 +44,32 @@
 
 ### Dynamische Darstellung der Bedürfnishierarchie
 ![[DynamischeBeduerfnishierarchie.jpeg]]
+## Bedarf
+
+> [!tldr] Bedarf
+> - Ergebnis objektivierbarer Bedürfnisse (messbar & zählbar)
+> - *ökonomischer Begriff* für <mark>am Markt <b>tatsächlich</b> auftretende Nachfrage</mark>
+> - *wirtschaftswissenschaftlicher Begriff* für <mark>Verlangen der Menschen nach einer bestimmten Dienstleistung/Produkt</mark>
+> - ==dient der Befriedigung menschlichen Bedürfnisses==
+> - entsteht aus Zusammenspiel von Bedürfnis und [[#^c03aa8|Kaufkraft]]:
+>	$$ \text{Bedürfnis} + \text{Kaufkraft} = \text{Bedarf} $$
+
+
+> [!tldr] Kaufkraft
+> 
+> - **volkswirtschaftlich:** ==Menge an Waren oder Dienstleistungen==, welche mit ==einer Geldeinheit== einer Währung ==gekauft werden kann==
+> - **betriebswirtschaftlich:** ==Verfügbare Geldmenge== *privater Haushalte oder Personengruppen*, ==die für Konsum ausgegeben werden kann==
+>
+>^c03aa8
+
+## Nachfrage
+
+> [!tldr] Nachfrage
+> ==Alle Produkte==, die auf bestimmten Markt zu einem bestimmten Zeitpunkt ==nachgefragt== werden.
+> 
+> Ist ==Kombination aus Bedürfnissen== der Verbraucher ==und== deren ==Kaufkraft==
+
+
 # 2. Entwicklung und Konzept des Marketing
 # 3.Käuferverhaltensforschung als Grundlage von marketing-Aktivitäten
 # (4. Grundlagen der Marketing Forschung)
