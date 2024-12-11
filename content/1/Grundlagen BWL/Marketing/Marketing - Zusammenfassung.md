@@ -139,6 +139,9 @@ $$ \text{Äußern einer Kaufabsicht} = \text{Nachfrage}$$
 - ==Intensität und Emotionalität der Kaufentscheidung==
 - **Unterscheidung** zwischen *High Involvment ↔️ Low Involvment*
 
+> [!info] First Mover & Early Adopter 
+> Leute die immer das neueste Produkt erwerben
+
 ### Werbeansätze
 
 | High Involvment                      | Low Involvment               |
@@ -152,7 +155,14 @@ $$ \text{Äußern einer Kaufabsicht} = \text{Nachfrage}$$
 # (4. Grundlagen der Marketing Forschung)
 # 5. Marketing-Ziele und Marketing-Strategien
 ## Systematisierung
+## Klassifizierungen
+- **Interpretationsvarianten**
+- 
+- Perspektiven
 # 6. Marketing-Mix
+## Produktlebenszyklus
+
+![[Produktlebenszyklus.png]]
 ## Produkt- und Programmpolitik
 ## Preispolitik
 ## Distributionspolitik
