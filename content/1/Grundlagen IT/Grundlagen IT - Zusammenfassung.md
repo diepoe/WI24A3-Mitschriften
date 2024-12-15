@@ -472,3 +472,5 @@ Datenträgerverbund, wird vom Betriebssystem ==als einzelner, virtueller Datentr
 | **Lesegeschwindigkeit** | Sehr schnell (paralleler Zugriff) | Schnell (Daten können von verschiedenen Platten gelesen werden) | Schnell (paralleler Zugriff möglich) |
 | **Speicherkapazität** | Maximale Nutzung (Summe aller Plattenkapazitäten) | 50% Kapazitätsverlust (Hälfte der Platten für Spiegelung) | ca. 80% Nutzbare Kapazität (Eine Platte für Paritätsinformationen) |
 | **Redundanz** | Keine (Ausfall einer Platte führt zum Datenverlust) | Sehr hoch (Vollständige Datensicherung durch Spiegelung) | Mittel (Überlebens- und Rekonstruktionsfähigkeit bei Plattenausfall) |
+==foo, bar, **this should be highlighted and bold at the same time**==
+
