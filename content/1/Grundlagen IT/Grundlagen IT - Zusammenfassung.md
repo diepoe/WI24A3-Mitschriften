@@ -156,7 +156,7 @@ American Standard Code for Information Interchange
 > *unterschiedliche europäische Ausprägungen* (==Latin==), kyrillisch, arabisch, griechisch, hebräisch usw.
 ### Unicode (ISO 10636)
 - Zeichenkodierung, ==die alle menschlichen Schriftzeichen oder Textelemente enthalten soll==
-- erste 128 identisch mit ASCII
+- erste 128 Zeichen identisch mit ASCII
 - jedem Zeichen ist eindeutige Nummer zugeordnet
 	- von `U+0000` bis `U+10FFFF`(U=Unicode, +=Trennzeichen, Zahlencode in Hexadezimal)
 - **plattformunabhängig**
@@ -228,7 +228,7 @@ American Standard Code for Information Interchange
 	- verbindet Komponenten
 	- bietet interne & externe Anschlüsse (*zzgl. evtl. Zusatzfunktionen*)
 - **CPU**
-	- Hauptprozessor, welcher die meisten Arbeitn erledigt (Berechnungen, Datenkonvertierung/-verlagerung, Treffen von Entscheidungen)
+	- Hauptprozessor, welcher die meisten Arbeiten erledigt (Berechnungen, Datenkonvertierung/-verlagerung, Treffen von Entscheidungen)
 - **Arbeitsspeicher**
 	- enthält aktuell ausgeführte Programme und deren Daten
 	- RAM = Random Access Memory (Gegensatz ROM = Read Only Memory)
@@ -355,7 +355,13 @@ American Standard Code for Information Interchange
 - **CPU-Bus** 
 	  ⇒ verbindet alle Komponenten miteinander
 #### Cache-Hierarchie
-![[Cache-Hierarchie.pdf]]
+
+| Level               | 1                  | 2                    | 3                | 4                                   | Arbeitsspeicher     |
+| ------------------- | ------------------ | -------------------- | ---------------- | ----------------------------------- | ------------------- |
+| **Geschwindigkeit** | schnell            | langsamer            | langsam          | *wenn vorhanden, außerhalb der CPU* | langsamster Zugriff |
+| **Größe**           | klein<br>(*32 kB*) | größer<br>(*512 kb*) | groß<br>(*4 MB*) |                                     | *bis in TB-Größe*   |
+- Tabellenskizze
+	![[Cache-Hierarchie.pdf]]
 #### Ablauf Befehlszyklus
 → [[#Von-Neumann-Zyklus]]
 ### Interrupts
