@@ -77,12 +77,43 @@ Digitale Technologien ermöglichen es, neben den [[#Automatisierungseffekte]]n a
 
 ## Komplementdarstellung
 ### Einerkomplement
-- [ ] Darstellung negativer Zahlen
+Darstellung negativer Zahlen durch ==Invertierung==, **erstes Bit** fungiert indirekt **als Vorzeichenbit** `0 → +` und `1 → -`:
 
-#### Berechnung
+| Dezimalzahl | positiv | negativ |
+| ----------- | ------- | ------- |
+| 1           | `0001`  | `1110`  |
+| 2           | `0010`  | `1101`  |
+| 3           | `0011`  | `1100`  |
+| 4           | `0100`  | `1011`  |
+
+> [!danger] Probleme des Einerkomplements
+> 
+> Zwei Darstellungen von `0` möglich, z.B. `0000` und `1111`.
+> 
+> Beim Rechnen mit Übertrag muss beim Überschreiten des ersten Bits der Übertrag nochmals zum Zwischenergebnis addiert werden!
+
+> [!quote] [Erklärvideo Einerkomplement](https://youtu.be/6Mlj3N8DL_I)
+
 ### Zweierkomplement
-- [ ] Darstellung negativer Zahlen
-#### Berechnung
+Darstellung negativer Zahlen durch ==Invertierung, dann Addieren von 1==, **erstes Bit** fungiert indirekt **als Vorzeichenbit** `0 → +` und `1 → -`:
+
+| Dezimalzahl | positiv | negativ |
+| ----------- | ------- | ------- |
+| 1           | `0001`  | `1111`  |
+| 2           | `0010`  | `1110`  |
+| 3           | `0011`  | `1101`  |
+| 4           | `0100`  | `1100`  |
+
+> [!check] Vorteile des Zweierkomplements
+> 
+> ==Nur noch **eine** Darstellung der Null möglich== ⇒ größerer darstellbarer Zahlenraum
+>
+>Beim Rechnen mit Übertrag muss beim Überschreiten des ersten Bits der Übertrag ==nicht mehr== zum Zwischenergebnis addiert werden!
+>
+>Subtraktion einfach möglich, indem man den Subtrahenden einfach als negative Zahl zum Minuenden addiert.
+
+> [!quote] [Erklärvideo Zweierkomplement](https://youtu.be/utqzSGXd4X4)
+
 ## Fließkommadarstellung (Floating Point)
 ![[Fliesskommadarstellung.pdf]]
 - **Vorzeichenbit** $v$
@@ -102,7 +133,7 @@ Digitale Technologien ermöglichen es, neben den [[#Automatisierungseffekte]]n a
 ### Wandlungsfehler
 > [!tldr] Definition: Wandlungsfehler
 > - in Abtastgrafik als Leerräume zwischen realem Signalverlauf und digital gespeichertem Verlauf
-> ![[Pasted image 20241214123606.png]]
+> ![[Wandlungsfehler.png]]
 # Kodierung
 
 > [!check] Warum Kodierung
