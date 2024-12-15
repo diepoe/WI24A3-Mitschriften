@@ -447,8 +447,8 @@ American Standard Code for Information Interchange
 	  Anzahl verarbeitbarer Ein-/Ausgabeanforderungen je Sekunde
 - **_Speicherhierarchie_**
 ### RAID
-Redundant Array of Disks. 
-Datenträgerverbund, wird vom Betriebssystem als einzelner, virtueller Datenträger wahrgenommen.
+*Redundant Array of Disks*. 
+Datenträgerverbund, wird vom Betriebssystem ==als einzelner, virtueller Datenträger wahrgenommen==.
 
 > [!warning] RAID ersetzt kein Backup!
 
