@@ -1,0 +1,237 @@
+classDiagram
+    class Benutzer {
+        <<abstract>>
+        -id: int
+        -vorname: String
+        -nachname: String
+        -email: String
+        -benutzername: String
+        -hashedPassword: String
+        -rolle: BenutzerRolle
+        -aktiv: boolean
+        -erstellungsdatum: Date
+        +anmelden() boolean
+        +abmelden() void
+        +profilAktualisieren() void
+        +berechtigungPruefen() boolean
+        +rolleHinzufuegen() boolean
+    }
+
+    namespace Administration{
+
+    class BenutzerRolle {
+        <<enumeration>>
+        STUDENT
+        VERWALTUNG
+        SGM
+        SEKRETARIAT
+        DOZENT
+        STUDIENGANGSLEITUNG
+        PRUEFUNGSAMT
+        WISSENSCHAFTLICHER_BETREUER
+        DUALER_PARTNER
+    }
+
+    class VerwaltungsMA {
+        +anfrageBearbeiten(a: Anfrage) String
+    }
+
+    class DualerPartner {
+        -unternehmen: String
+        -ansprechpartner: String
+        -standort: String
+        +studienplatzAnbieten() void
+    }
+}
+
+namespace Tagesbetrieb {
+    class Student {
+        -matrikelnummer: String
+        -kurs: Kurs
+        -partnerunternehmen: String
+        -abwesenheiten: List~Abwesenheit~
+        +vorlesungenAnzeigen() List~Vorlesung~
+        +wissenschaftlicheArbeitAnmelden() void
+        +notenspiegel() List~int~
+        +abwesenheitenAbrufen() List~Abwesenheit~
+        +abwesenheitAnlegen(a: Abwesenheit)
+        +exmatrikulieren(ichWillFreiSein: boolean)
+    }
+
+  
+
+    class Kurs {
+        -kursnummer: String
+        -kursname: String
+        -studiengang: String
+        -startjahr: int
+        -studiengangsleitung: Benutzer
+        +studentHinzufuegen(student: Student) void
+        +studentEntfernen(studentId: int) void
+        +teilnehmerlisteExportieren() File
+    }
+}
+namespace VorlesungsPlanung{
+    class Dozent {
+        -personalId: String
+        -faecher: List~String~
+        -sprechzeiten: String
+        -titel: String
+        +terminVorschlagen() Vorlesung
+        +studentenBewerten() void
+    }
+    class Vorlesungsplan {
+        -id: int
+        -kurs: Kurs
+        -semester: int
+        -jahr: int
+        -status: PlanStatus
+        -letzteAenderung: Date
+        +vorlesungHinzufuegen(vorlesung: Vorlesung) void
+        +vorlesungEntfernen(id: int) void
+        +rauemeBuchen() void
+        +planVeroeffentlichen() void
+        +planExportieren() File
+    }
+
+    class PlanStatus {
+        <<enumeration>>
+        ENTWURF
+        TERMINABSPRACHE
+        AKTIV
+        ARCHIVIERT
+    }
+
+    class Vorlesung {
+        -id: int
+        -titel: String
+        -raum: String
+        -startzeit: Time
+        -endzeit: Time
+        -datum: Date
+        +vorlesungAktualisiern() void
+    }
+
+}
+
+namespace Info{
+    class Informationsbereich {
+        -id: int
+        -titel: String
+        -beschreibung: String
+        -verantwortlicher: Benutzer
+        -letzteAktualisierung: Date
+        -eintraege: List~Informationseintrag~
+        -berechtigteRollen: List~BenutzerRolle~
+        +eintragHinzufuegen(eintrag: Informationseintrag) void
+        +eintragEntfernen(id: int) void
+        +eintraegeFiltern(kategorie: InformationsKategorie) List~Informationseintrag~
+        +eintragSuchen(suchbegriff: String) List~Informationseintrag~
+    }
+
+
+    class Informationseintrag {
+        -id: int
+        -titel: String
+        -inhalt: String
+        -kategorie: InformationsKategorie
+        -autor: Benutzer
+        -erstellungsdatum: Date
+        -entwurf: boolean
+        +bearbeiten() void
+        +veroeffentlichen() void
+        +archivieren() void
+        +benachrichtigungSenden() void
+    }
+
+    class InformationsKategorie {
+        <<enumeration>>
+        ALLGEMEIN
+        AUSLANDSSEMESTER
+        IT_ANLEITUNG
+        PRUEFUNGEN
+        VERANSTALTUNGEN
+    }
+}
+
+namespace WissenschaftlicheArbeiten{
+    class WissenschaftlicherBetreuer {
+        -personalId: String
+        -fachgebiet: String
+        -maxBetreungsanzahl: int
+        -aktuelleBetreuungen: int
+        +arbeitBetreuen(arbeit: WissenschaftlicheArbeit) void
+        +kapazitaetPruefen() boolean
+    }
+    class WissenschaftlicheArbeit {
+        -autor: Student
+        -titel: String
+        -art: ArbeitArt
+        -beschreibung: String
+        -anmeldedatum: Date
+        -abgabedatum: Date
+        -status: ArbeitStatus
+        -note: float
+        -bewertung: String
+        -abgabe: File
+        +anmelden() void
+        +abgeben(datei: File) void
+        +bewerten(note: float, kommentar: String) void
+        +statusAktualisieren() void
+        +fortschrittBerichten() void
+    }
+
+    class WiArbeitArt {
+        <<enumeration>>
+        BACHELORARBEIT
+        PA1
+        PA2
+        ASSIGNMENT
+    }
+
+    class ArbeitStatus {
+        <<enumeration>>
+        ANGEMELDET
+        THEMA_GENEHMIGT
+        IN_BEARBEITUNG
+        ABGEGEBEN
+        IN_BEWERTUNG
+        BESTANDEN
+        NICHT_BESTANDEN
+    }
+}
+
+    %% Vererbungsbeziehungen zu Benutzer
+    Benutzer <|-- Student
+    Benutzer <|-- Dozent
+    Benutzer <|-- WissenschaftlicherBetreuer
+    Benutzer <|-- DualerPartner
+    Benutzer <|-- VerwaltungsMA
+
+    %% Hauptassoziationen
+    Benutzer --o BenutzerRolle : "authorisiert durch"
+    Benutzer o-- Kurs : "hat Leitung"
+    Benutzer o-- Informationsbereich : "hat Verantwortlichen"
+
+    
+    %% Kurs-Beziehungen
+    Kurs --o Student : "enthält"
+    Kurs -- Vorlesungsplan : "hat zugeordnet"
+    
+    %% Vorlesungsplan-Beziehungen
+    Vorlesungsplan --o Vorlesung : "enthält"
+    Vorlesungsplan --o PlanStatus : "hat Status"
+    Dozent --o Vorlesung : "hält"
+    Student --o Vorlesung : "besucht"
+    
+    %% Informationsbereich-Beziehungen
+    Informationsbereich --o Informationseintrag : "enthält"
+    Informationseintrag --o InformationsKategorie : "eingeordnet in"
+    Informationseintrag o-- Benutzer : "erstellt von"
+    
+    %% Wissenschaftliche Arbeit-Beziehungen
+    WissenschaftlicheArbeit -- Student : "geschrieben von"
+    WissenschaftlicheArbeit -- WissenschaftlicherBetreuer : "betreut von"
+    WissenschaftlicheArbeit --o WiArbeitArt : "ist vom Typ"
+    WissenschaftlicheArbeit --o ArbeitStatus : "hat Status"
+    
