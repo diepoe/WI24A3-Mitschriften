@@ -1,4 +1,3 @@
-
 # Aktivitätsdiagramm
 > [!example] Aktivitätsdiagramm einfach
 > Modellieren Sie folgenden Ablauf (Kontrollfluss) beim Kauf von Gemüsepflanzen mittels Aktivitätsdiagramm:
@@ -7,6 +6,16 @@ Wenn eine Bestellung eingeht, prüft der Gärtner zunächst die Bestellung, um h
 > [!example] Aktivitätsdiagramm fortgeschritten
 > Modellieren Sie folgenden Ablauf (Kontrollfluss) einer Bäckereilieferung mittels Aktivitätsdiagramm:
 In der Zentrale wird der Teig hergestellt und die Teiglinge geformt. Anschließend werden sie verpackt und der Lieferfirma übergeben. Diese liefert die Teiglinge in die Filiale. Dort wird ein Blech mit Teiglingen bestückt und gebacken. Sind dann genügend fertige Weckerl vorhanden, so wartet man, bis diese ausgekühlt sind und schlichtet sie anschließend in die Vitrine. Sind noch nicht genug fertige Weckerl vorhanden, werden so lange weitere Bleche bestückt und gebacken bis genug Weckerl vorhanden sind.
+
+
+> [!example] Aktivitätsdiagramm - viele Wege führen nach Rom
+> Modellieren Sie folgenden Ablauf (Kontrollfluss) mittels Aktivitätsdiagramm:
+Der Senior Lecturer stellt die Prüfung zusammen und druckt sie. 
+Unabhängig davon reserviert der/die TutorIn den Hörsaal und druckt die Anwesenheitsliste. Dann machen beide zusammen die Prüfungsaufsicht. Anschließend korrigiert der Senior Lecturer die Prüfungen und trägt die Punkte ein und der/die TutorIn stellt die Musterlösung online.
+>
+Modellieren Sie den beschriebenen Prozess auf zwei Arten:
+i. mit Parallelisierungs- und Synchronisierungsknoten;
+ii. ohne Parallelisierungs- bzw. Synchronisierungsknoten zu verwenden
 
 
 > [!quote] Quelle
