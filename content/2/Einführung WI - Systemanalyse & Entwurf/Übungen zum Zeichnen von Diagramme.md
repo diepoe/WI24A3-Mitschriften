@@ -26,3 +26,8 @@ ii. ohne Parallelisierungs- bzw. Synchronisierungsknoten zu verwenden
 
 > [!cite] Misc. Übungen
 > https://files.ifi.uzh.ch/rerg/amadeus/teaching/courses/inf_oek_2_hs10/uebungen/uebung_4_loesung.pdf
+
+---
+# Übungsblatt
+
+![[uebuungsblatt-uml.pdf]]
